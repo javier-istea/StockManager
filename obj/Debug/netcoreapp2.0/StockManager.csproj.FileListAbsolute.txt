@@ -1,0 +1,11 @@
+C:\Users\Javier\source\repos\StockManager\StockManager\bin\Debug\netcoreapp2.0\StockManager.deps.json
+C:\Users\Javier\source\repos\StockManager\StockManager\bin\Debug\netcoreapp2.0\StockManager.runtimeconfig.json
+C:\Users\Javier\source\repos\StockManager\StockManager\bin\Debug\netcoreapp2.0\StockManager.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\StockManager\StockManager\bin\Debug\netcoreapp2.0\StockManager.dll
+C:\Users\Javier\source\repos\StockManager\StockManager\bin\Debug\netcoreapp2.0\StockManager.pdb
+C:\Users\Javier\source\repos\StockManager\StockManager\obj\Debug\netcoreapp2.0\StockManager.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\StockManager\StockManager\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Javier\source\repos\StockManager\StockManager\obj\Debug\netcoreapp2.0\StockManager.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\StockManager\StockManager\obj\Debug\netcoreapp2.0\StockManager.AssemblyInfo.cs
+C:\Users\Javier\source\repos\StockManager\StockManager\obj\Debug\netcoreapp2.0\StockManager.dll
+C:\Users\Javier\source\repos\StockManager\StockManager\obj\Debug\netcoreapp2.0\StockManager.pdb
