@@ -78,7 +78,7 @@ namespace StockManager.Controllers
                 {
                     return BadRequest(ModelState);
                 }
-
+                model.TipoDePrendaId = id;
                 repo.Update(model);
                 repo.save();
 

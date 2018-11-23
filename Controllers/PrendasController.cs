@@ -81,7 +81,7 @@ namespace StockManager.Controllers
                 Color = prenda.Color,
                 PrendaID = prenda.PrendaID,
                 Descripcion = prenda.Descripcion,
-                Talle = prenda.Descripcion,
+                Talle = prenda.Talle,
                 TipoDePrendaID = prenda.TipoDePrendaID,
                 TiposDePrendas = tipoDePrendaRepository.GetAll()
             };
@@ -99,7 +99,7 @@ namespace StockManager.Controllers
                 {
                     return BadRequest(ModelState);
                 }
-
+                model.PrendaID = id;
                 prendaRepository.Update(model);
                 prendaRepository.save();
 
